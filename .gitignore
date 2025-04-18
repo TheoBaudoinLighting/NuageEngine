@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# Build directory
+build/
+
+# 
+*.vs
+*.vscode
+
+
+*.ppm
+
+
+NuageEngine/vendors/*
+NuageEngine/x64/*
+packages/*
